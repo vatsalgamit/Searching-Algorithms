@@ -23,3 +23,7 @@ list1 = Make_List()
 
 #Call the Linear Search Function
 Linear_Search(list1)
+
+
+#We can also pass the Make_List() Function directly inside the Linear_Search() Function
+#Linear_Search(Make_List())
